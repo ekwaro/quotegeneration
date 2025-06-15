@@ -15,7 +15,7 @@ const GeneratePage = () => {
     {
       id: "1",
       author: "Dominic",
-      quote: "I am the one to move forward",
+      quote: "Start where you are, Do what ou can and use what you have",
       liked: false,
     },
   ]);
