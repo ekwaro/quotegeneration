@@ -7,7 +7,7 @@ const GeneratePage = () => {
    * This array useState hook is used hold the data that has been qurried from the internet
    */
   const [quotes, setQuotes] = useState([
-    { id: "1", author: "Dominic", quote: "I am the one to move forward" },
+    { id: "1", author: "Dominic",  quote: "Start where you are, Do what ou can and use what you have", },
   ]);
 
   /**This state holds value for the application that has been filtered from the list of quotes in the quotes array */
